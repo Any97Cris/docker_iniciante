@@ -1,0 +1,1 @@
+docker build -t criscianysouza:php81 -f php/Dockerfile .
